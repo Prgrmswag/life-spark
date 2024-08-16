@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "104215054997",
+    "project_id": "lifespark-3a741",
+    "storage_bucket": "lifespark-3a741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104215054997:android:19f7f6ba1284976d06299c",
+        "android_client_info": {
+          "package_name": "com.example.ls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104215054997-ovlh5baif2ndq082g90ovcehho5rmpnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ls",
+            "certificate_hash": "761002a813c144dc92e19f3e323ce31a01c28342"
+          }
+        },
+        {
+          "client_id": "104215054997-9pv1bgsm6esg9hd82mrnb1cdkvsge24a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqxnRqwFsi2OX_xhQ9c_LTWhrtj89wJP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104215054997-9pv1bgsm6esg9hd82mrnb1cdkvsge24a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104215054997-ikimsp4gilfn545viu3hfcmb1jorrmu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ls"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
